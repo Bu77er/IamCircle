@@ -1,1 +1,3 @@
 # IamCircle
+
+This project is a stylized third-person action game that blends dynamic gameplay mechanics with a custom hatch shading visual style, designed to evoke the look of hand-drawn or inked illustrations. Developed in Unity using C#, the game serves as a platform to demonstrate both gameplay programming and real-time graphics techniques. At the core of the project is a custom hatch shading shader, which simulates cross-hatched shadows and lighting across 3D geometry. The shader leverages multiple tonal maps or texture ramps to convey depth and lighting in a non-photorealistic, artistic way.
